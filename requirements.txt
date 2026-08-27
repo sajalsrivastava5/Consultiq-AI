@@ -1,0 +1,28 @@
+# --- Core app ---
+streamlit>=1.38
+python-dotenv>=1.0
+
+# --- Document parsing ---
+PyMuPDF>=1.24
+python-docx>=1.1
+python-pptx>=0.6.23
+openpyxl>=3.1
+
+# --- Embeddings / RAG ---
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+langchain>=0.2
+langchain-community>=0.2
+scikit-learn>=1.4        # offline embedding fallback (HashingVectorizer)
+
+# --- LLM providers (configurable — only the selected provider needs credentials) ---
+openai>=1.30              # used for both OpenAI and Azure OpenAI (AzureOpenAI client)
+requests>=2.31             # used for the Ollama HTTP API
+
+# --- Data / analytics ---
+pandas>=2.2
+numpy>=1.26
+plotly>=5.22
+
+# --- Testing ---
+pytest>=8.2
