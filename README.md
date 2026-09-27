@@ -1,4 +1,4 @@
-# 🧠 ConsultIQ AI — Enterprise Knowledge Intelligence Platform
+# 🧠 ConsultIQ AI - Enterprise Knowledge Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.38+-FF4B4B)
