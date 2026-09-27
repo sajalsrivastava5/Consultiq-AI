@@ -8,13 +8,13 @@
 
 > **Educational / portfolio project.** Built to demonstrate GenAI engineering,
 > RAG system design, and enterprise software architecture. Uses only
-> synthetic, publicly-shaped sample data — no proprietary or confidential
+> synthetic, publicly-shaped sample data - no proprietary or confidential
 > data from any organization is used or referenced. Not deployed inside, or
 > claiming affiliation with, any real consulting firm.
 
 ConsultIQ AI is a Retrieval-Augmented Generation (RAG) knowledge assistant
 that simulates an internal accelerator a consulting firm could use to make
-its own proposals, SOWs, case studies, and reports instantly searchable —
+its own proposals, SOWs, case studies, and reports instantly searchable -
 replacing slow keyword search with semantic search, a cited-source chat
 assistant, and an RFP-to-past-proposal recommendation engine.
 
